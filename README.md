@@ -2,9 +2,8 @@
 <h3 align="center">Full-Stack Developer | Systems & DevOps Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/Kunj Sharma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/kunj-sharma-b0120b258"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
   <a href="mailto:kunjsharma669@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Kunj-Sharma03&color=blue"/>
 </p>
 
 ---
