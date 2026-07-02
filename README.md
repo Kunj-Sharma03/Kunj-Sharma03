@@ -1,91 +1,65 @@
-<h1 align="center">Hey 👋, I'm Kunj Sharma</h1>
-<h3 align="center">Full-Stack Developer | Systems & DevOps Enthusiast</h3>
+<h1 align="center">Hi, I'm Kunj Sharma 🚀</h1>
+<p align="center">
+  <strong>Full-Stack Developer & Systems/DevOps Enthusiast</strong><br>
+  Building scalable backend systems, real-time architectures, and developer tools.
+</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kunj-sharma-b0120b258"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kunjsharma669@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/kunj-sharma-b0120b258"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kunjsharma669@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 B.E. in Computer Science & Design @ **Dayananda Sagar College of Engineering** (CGPA: 8.70)
-- ⚙️ Passionate about **backend systems, real-time architectures & DevOps**
-- 🚀 Interested in building **scalable infrastructure + developer tools**
-- 🧠 Strong focus on **system design, performance & security**
+## ⚡ Quick Overview
+* 🎓 **Education:** B.E. in Computer Science & Design @ DSCE (CGPA: 8.87)
+* 🧠 **Core Focus:** Distributed Systems, System Design, Infrastructure Optimization, and Security
+* 🛠️ **Current Obsession:** Automating deployments, low-level networking, and self-hosted dev platforms
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
-### 🧩 Languages
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🔧 Backend & APIs
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST](https://img.shields.io/badge/REST-005571?style=for-the-badge)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### ⚙️ DevOps & Infra
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 🔐 Security & Auth
-- JWT, OAuth2, RBAC  
-- OpenSSL, X.509 Certificates  
-- RSA & AES Encryption  
-
-### ⚡ Real-Time & Systems
-- WebSockets, Socket.IO, SSE  
-- BullMQ (queues & background jobs)  
-- Docker Compose orchestration  
-
-### 🛠️ Tools
-- Git, GitHub, Postman, Swagger  
-- Linux CLI, Electron.js  
-- SMTP, OCR (Tesseract)  
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript, Java, Go, Bash |
+| **Backend & APIs** | Node.js, Express.js, GraphQL, REST, Prisma, BullMQ |
+| **Frontend** | React, Next.js, Tailwind CSS, Monaco Editor, xterm.js |
+| **Databases** | PostgreSQL, Redis, MongoDB, Supabase |
+| **DevOps & Infra** | Docker, Docker Compose, Nginx, DigitalOcean, Vercel |
+| **Security & Real-time** | WebSockets, Socket.IO, SSE, JWT, OAuth2, OpenSSL (RSA/AES) |
 
 ---
 
-## 🧠 Research Experience
-**SVD-Based Image Compression + ResNet-10 Optimization**  
-📍 ISMAC International Conference  
+## 🚀 Featured Projects
 
-- Worked on **efficient deep learning for low-resource systems**
-- Used **SVD for dimensionality reduction**
-- Optimized **ResNet-10 for performance vs cost trade-offs**
-- Presented findings at an international conference  
+### 🌐 [GitOps Nexus](https://github.com/Kunj-Sharma03) — Self-Hosted Developer Platform
+> A self-hosted Codespaces alternative & containerized CI/CD engine.
+* **Ephemeral Sandboxes:** Provisioned disposable `xterm.js` sandboxes with custom container lifecycle limits.
+* **CI/CD Pipeline:** Built execution pipelines with **Docker + BullMQ** featuring live log streaming via **Socket.IO**.
+* **Stack:** Node.js, TypeScript, PostgreSQL, Docker, Redis, Prisma, React, Nginx.
 
----
+### 📊 [AP-EYE](https://github.com/Kunj-Sharma03) — API Monitoring & Alerting Platform
+> Full-stack monitoring system tracking global uptime, latencies, and system health.
+* Real-time metrics dashboard using **GraphQL (Apollo)** and **Chart.js**.
+* Automated threshold-based incident reporting with automated **SMTP email alerts** and PDF exports.
+* **Stack:** Next.js, Node.js, PostgreSQL, Socket.IO, JWT.
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kunj-Sharma03&theme=dark&layout=compact)
-
----
-
-## 🚀 What I Focus On
-- Building **scalable backend systems**
-- Designing **real-time architectures**
-- Working on **DevOps + cloud-native setups**
-- Exploring **system design & distributed systems**
+### 🔒 [SecureVPN](https://github.com/Kunj-Sharma03) — Custom Network Tunneling App
+* Designed a custom network tunneling protocol featuring a **hybrid RSA-handshake and AES-256 encryption**.
+* Implemented mutual **X.509 certificate-based authentication** via a custom OpenSSL CA.
+* **Stack:** Java, Electron.js, OpenSSL, Tesseract OCR.
 
 ---
 
-<p align="center">⚡ Always building. Always optimizing.</p>
+## 🧠 Research & Publications
+* **SVD-Based Image Compression + ResNet-10 Optimization** | *Published at ISMAC International Conference*
+  * Researched Singular Value Decomposition (SVD) for dimensionality reduction to deploy lightweight deep learning models in resource-constrained environments.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kunj-Sharma03&theme=dark&layout=compact" alt="Kunj's Top Langs" />
+</p>
+
+<p align="center">⚡ <em>Always building. Always optimizing.</em></p>
